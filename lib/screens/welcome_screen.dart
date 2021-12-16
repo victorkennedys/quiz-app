@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:quiz_app/constants.dart';
 import 'package:quiz_app/screens/quiz_screen.dart';
 import 'package:websafe_svg/websafe_svg.dart';
+import 'quiz_screen.dart';
 
 class WelcomeScreen extends StatelessWidget {
   @override
